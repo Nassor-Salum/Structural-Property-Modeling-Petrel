@@ -11,7 +11,9 @@ This project demonstrates how to perform structural and property modeling using 
 - Petrel (by Schlumberger)
 
 ## Screenshots
+
 ![Modeling screenshot](images/model.png)
+
 
 ## Author
 Nassor Salum
