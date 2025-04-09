@@ -25,8 +25,7 @@ The refined and upscaled models were exported to Eclipse for dynamic simulation.
 - Visual insights on grid effect
 ## Screenshots
 
-[[[![Modeling screenshot]([images/model.png)](https://github.com/Nassor-Salum/Structural-Property-Modeling-Petrel/commit/d17cbdc1118fce4554753618c31d18f2c2746772](https://github.com/Nassor-Salum/structural-property-upscaling/blob/main/image.png))](https://github.com/Nassor-Salum/structural-property-upscaling/blob/main/image.png)](https://github.com/Nassor-Salum/structural-property-upscaling/blob/main/image.png)
-
+https://github.com/Nassor-Salum/structural-property-upscaling/blob/main/image.png
 
 ## Author
 Nassor Salum
