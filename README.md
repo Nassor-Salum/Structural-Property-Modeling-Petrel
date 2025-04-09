@@ -25,7 +25,7 @@ The refined and upscaled models were exported to Eclipse for dynamic simulation.
 - Visual insights on grid effect
 ## Screenshots
 
-![Upscaling Result](images/upscaling-sample.png)
+![Upscaling Result]([images/upscaling-sample.png](https://github.com/Nassor-Salum/structural-property-upscaling/blob/main/image.png))
 
 ## Author
 Nassor Salum
